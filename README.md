@@ -73,9 +73,6 @@ cp dots/wallpaper/* ~/Pictures/
 </blockquote></details>
 </blockquote></details>
 
-<details><summary>3: final step:</summary><blockquote>
-<div align="center">
-
 <h3> Enjoy the config, dont forget to report issues with my config if any appear! </h3>
 
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
