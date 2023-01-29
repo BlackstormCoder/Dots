@@ -66,12 +66,14 @@ cp dots/wallpaper/* ~/Pictures/
 </blockquote></details>
 </blockquote></details>
 </blockquote></details>
+
+<details><summary>3: final step:</summary><blockquote>
 <div align="center">
 <h1> Preview </h1>
 
 ![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
 ![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
-
+</blockquote></details>
 <h3> Enjoy the config, dont forget to report issues with my config if any appear! </h3>
 </div>
