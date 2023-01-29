@@ -16,3 +16,13 @@
 </div>
 
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
+
+⚠ This specific configuration is designed to be used with ArchLinux ⚠
+> Using on other distributions may come with some unwated errors
+
+<details><summary>1: Download the dependecies required for this setup: </summary><blockquote>
+
+- firstly download the latest Hyprland from the AUR, refer to the [wiki](https://wiki.hyprland.org/Getting-Started/Installation/) to get started:
+```zsh
+paru -S hyprland-git
+```
