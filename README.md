@@ -17,9 +17,9 @@
 <details><summary>Preview</summary><blockquote>
 <h1> Preview </h1>
 
-![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
-![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
 </div>
 </blockquote></details>
 
@@ -77,3 +77,5 @@ cp dots/wallpaper/* ~/Pictures/
 <div align="center">
 
 <h3> Enjoy the config, dont forget to report issues with my config if any appear! </h3>
+
+![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
