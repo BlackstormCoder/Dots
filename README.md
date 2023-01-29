@@ -63,10 +63,15 @@ cp dots/wallpaper/* ~/Pictures/
 <details><summary>3: final step:</summary><blockquote>
 - Manually log out using `SUPER + M` and relog into your hyprland
 
-Enjoy!
 </blockquote></details>
-hey
 </blockquote></details>
-hello
 </blockquote></details>
-wow
+<div align="center">
+<h1> Preview </h1>
+
+![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
+
+<h3> Enjoy the config, dont forget to report issues with my config if any appear! </h3>
+</div>
