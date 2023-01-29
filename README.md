@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>♠Nickolas Samuels Config ♠</h1>
-    <h3>A place where I store all of my own customization </h3>
+    <h1>♠Nicohlas Samuel's Configuration: ♠</h1>
+    <h3>The git repository with all my config files.</h3>
 </div>
 
 <div align="center">
