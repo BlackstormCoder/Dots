@@ -61,6 +61,8 @@ cp dots/wallpaper/* ~/Pictures/
 ```
 - All keybind can be found inside the hyprland config:
 <details><summary>3: final step:</summary><blockquote>
-- Manually log out using the `SUPER + M` and relog into your hyprland
+- Manually log out using `SUPER + M` and relog into your hyprland
 
 Enjoy!
+</summary></details>
+hey
