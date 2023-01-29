@@ -64,5 +64,5 @@ cp dots/wallpaper/* ~/Pictures/
 - Manually log out using `SUPER + M` and relog into your hyprland
 
 Enjoy!
-</summary></details>
+</blockquote></details>
 hey
