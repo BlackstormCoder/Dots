@@ -14,8 +14,14 @@
 <img alt="Issues" src="https://img.shields.io/github/issues/phant80m/dots?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
 </a>
 </div>
+<details><summary>Preview</summary><blockquote>
+<h1> Preview </h1>
 
+![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
+</div>
+</blockquote></details>
 
 ⚠ This specific configuration is designed to be used with ArchLinux ⚠
 > Using on other distributions may come with some unwated errors
@@ -69,11 +75,5 @@ cp dots/wallpaper/* ~/Pictures/
 
 <details><summary>3: final step:</summary><blockquote>
 <div align="center">
-<h1> Preview </h1>
 
-![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
-![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
-![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
-</blockquote></details>
 <h3> Enjoy the config, dont forget to report issues with my config if any appear! </h3>
-</div>
