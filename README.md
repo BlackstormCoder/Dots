@@ -39,7 +39,7 @@ yay -S hyprland-git
   ``` 
 <details><summary>2: Installing the configuration:</summary><blockquote>
 
-- Copy all of the configuration files to /home/<username>/.config/:
+- Copy all of the configuration files to /home/<<username>username>/.config/:
 
 ```zsh 
 cp -r dots/.config/* ~/.config/
