@@ -37,10 +37,29 @@ yay -S hyprland-git
   ```
   paru -S rofi swaybg kitty waybar-hyprland grim slurp swappy nvim pavucontrol
   ``` 
+  - Install fonts:
+  [fira code nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/FiraCode.zip)
+  [jetbrain mono nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip)
+  place font into `~/.local/share/fonts/` if fonts directory does not exist create it.
+  then run:
+  ```zsh
+  fc-cache -fv
+  ```
+  fonts should install.
 <details><summary>2: Installing the configuration:</summary><blockquote>
 
 - Copy all of the configuration files to /home/<<username>username>/.config/:
 
+
 ```zsh 
 cp -r dots/.config/* ~/.config/
 ```
+- copy wallpaper into required directory:
+```zsh
+cp dots/wallpaper/* ~/Pictures/
+```
+- All keybind can be found inside the hyprland config:
+<details><summary>3: final step:</summary><blockquote>
+- Manually log out using the `SUPER + M` and relog into your hyprland
+
+Enjoy!
