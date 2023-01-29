@@ -38,13 +38,14 @@ yay -S hyprland-git
   paru -S rofi swaybg kitty waybar-hyprland grim slurp swappy nvim pavucontrol
   ``` 
   - Install fonts:
-  [fira code nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/FiraCode.zip)
+  [fira code nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/FiraCode.zip) and
   [jetbrain mono nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip)
   place font into `~/.local/share/fonts/` if fonts directory does not exist create it.
   then run:
   ```zsh
   fc-cache -fv
   ```
+  this will sync all installed fonts.
   fonts should install.
 <details><summary>2: Installing the configuration:</summary><blockquote>
 
