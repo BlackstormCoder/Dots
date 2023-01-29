@@ -19,7 +19,7 @@
 
 ![](https://raw.githubusercontent.com/phant80m/dots/main/3.png)
 ![](https://raw.githubusercontent.com/phant80m/dots/main/2.png)
-![](https://raw.githubusercontent.com/phant80m/dots/main/1.png)
+![](https://raw.githubusercontent.com/phant80m/dots/main/1-2.png)
 </div>
 </blockquote></details>
 
