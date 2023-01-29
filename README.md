@@ -26,3 +26,21 @@
 ```zsh
 paru -S hyprland-git
 ```
+- Or use any other aur helper, for example YAY:
+```zsh
+yay -S hyprland-git
+```
+-- setup minimal configuration:
+
+  - Install Rofi, SwayBG, Kitty, waybar-hyprland, Grim, Slurp, Swappy, Nvim, Pavucontrol:
+  
+  ```
+  paru -S rofi swaybg kitty waybar-hyprland grim slurp swappy nvim pavucontrol
+  ``` 
+<details><summary>2: Installing the configuration:</summary><blockquote>
+
+- Copy all of the configuration files to /home/<username>/.config/:
+
+```zsh 
+cp -r dots/.config/* ~/.config/
+```
